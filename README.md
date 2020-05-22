@@ -7,3 +7,11 @@ A curated list of established safety/well-being/performance companies. The crite
 Pull requests are welcome. If you are a founder or a manager and you want to use the Safescious platform as a launchpad, please add your. Please keep the list in alphabetical order.
 
 <b>Note:</b> we started this list as a way of finding companies that the Safescious community may want to learn from, to support or to work with. These days, we are busy building great content for you! 
+
+
+# Other dynamic lists
+
+# Static lists and articles
+
+# Job boards
+<a href>Angel List</a> - Startup Jobs. Search by going to Job Type, and selecting "Conscious OK".
